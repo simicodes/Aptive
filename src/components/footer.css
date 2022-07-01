@@ -62,8 +62,8 @@ p {
     padding: 1rem;
   }
   /* hide...... */
-  .footer .solution,
-  .support {
+  .footer .company,
+  .legal {
     display: none;
   }
   .footer .col-subscribe {
