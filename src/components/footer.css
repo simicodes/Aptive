@@ -62,7 +62,7 @@ p {
     padding: 1rem;
   }
   /* hide...... */
-  /* .footer .solution,
+  .footer .solution,
   .support {
     display: none;
   }
@@ -87,5 +87,5 @@ p {
   }
   .footer-bottom .rights {
     display: none;
-  } */
+  }
 }
