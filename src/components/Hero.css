@@ -139,8 +139,8 @@ form input {
   .hero h1 {
     font-size: 32px;
   }
-  /* Hide.......... */
-  /* .hero .col-2 {
+  /* Hide.......... and unHide */
+  .hero .col-2 {
     display: none;
-  } */
+  }
 }
